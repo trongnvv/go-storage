@@ -1,2 +1,3 @@
 # go-storage
-build for test volumn k8s
+- Build for test volumn K8s
+- Use go-auth project for check-auth
